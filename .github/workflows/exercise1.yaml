@@ -7,5 +7,5 @@ jobs:
   learning:
     runs-on: ubuntu-latest
     steps:
-      - name: Print a message
-        run: echo "how are you"
+      - name: Print a env variable
+        run: printenv
