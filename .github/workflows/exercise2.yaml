@@ -1,0 +1,11 @@
+name: workflow-1
+on:
+ push:
+   branches:
+      - dev
+jobs:
+  learning:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print a message
+        run: echo "welcome to harshitha"
