@@ -14,3 +14,5 @@ jobs:
 
       - name: List files
         run: ls
+      - name: List files with details
+        run: ls -lh
