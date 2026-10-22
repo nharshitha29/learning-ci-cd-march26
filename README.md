@@ -1,1 +1,6 @@
 # learning-ci-cd-march26
+## componets
+    name
+    on
+    jobs
+    steps
