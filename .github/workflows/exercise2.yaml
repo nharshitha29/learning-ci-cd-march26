@@ -9,3 +9,8 @@ jobs:
     steps:
       - name: Print a message
         run: echo "welcome to harshitha"
+      - name: Show current directory
+        run: pwd
+
+      - name: List files
+        run: ls
