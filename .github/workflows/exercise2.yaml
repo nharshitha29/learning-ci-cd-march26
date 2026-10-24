@@ -12,3 +12,5 @@ jobs:
         
       - name: List files
         run: ls
+      - name: Print a env variable
+        run: printenv
