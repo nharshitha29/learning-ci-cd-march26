@@ -11,3 +11,6 @@ jobs:
         run: echo "welcome to harshitha,thaths for creating pull request"
       - name: list files
         run: ls 
+      - name: Show current directory
+        run: pwd
+        
