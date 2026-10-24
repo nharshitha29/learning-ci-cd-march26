@@ -8,3 +8,4 @@
   
   ## git actions
   ## ci cd pipelines
+  ## ubuntu latest
